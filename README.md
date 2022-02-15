@@ -3,6 +3,6 @@
 
 Group members : Thibaud DIROU, Charles SAILLIOT, Zhenyu XIANG
 
-Mask detection using keras 
+Project subject : Mask detection using keras 
 
 Training data composed of 10000 pictures (5000 with mask and 5000 without mask)
