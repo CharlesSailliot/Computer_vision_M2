@@ -1,5 +1,5 @@
 # Computer_vision_M2
-##Projet M2 Junia ISEN de computer vision 
+## Projet M2 Junia ISEN de computer vision 
 
 Group members : Thibaud DIROU, Charles SAILLIOT, Zhenyu XIANG
 
